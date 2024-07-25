@@ -1,6 +1,6 @@
 # Saturday's Workout
 
-#### Warm-Up (5 minutes)
+## Warm-Up (5 minutes)
 
 **Jumping Jacks**  
 <img src="https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration.jpg" height="200"/>  
@@ -31,7 +31,7 @@
 - Stand with your feet shoulder-width apart and twist your torso from side to side.
 - **Duration**: 1 minute
 
-#### Main Workout (20-30 minutes)
+## Main Workout (20-30 minutes)
 
 **Pull-Ups** (if available)  
 <img src="https://cdn.shopify.com/s/files/1/0705/5432/1194/files/mikolo-pull-ups-blog-2.png?v=1693468017" height="200"/>  
@@ -72,7 +72,7 @@
 - Return to squat and jump up.
 - **Sets/Reps**: 3 sets of 10 reps
 
-#### Cool Down (5 minutes)
+## Cool Down (5 minutes)
 
 **Child's Pose**  
 <img src="https://images.ctfassets.net/hjcv6wdwxsdz/2dsguYO1UTnJPHszmCgPzs/549cbb3c0a9c79c92f15cf8a484070dc/Woman-on-yoga-mat-doing-childs-pose.png" height="200"/>  
