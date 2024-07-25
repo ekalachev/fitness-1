@@ -1,6 +1,6 @@
 # Tuesday's Workout
 
-#### Warm-Up (5 minutes)
+## Warm-Up (5 minutes)
 
 **Jumping Jacks**  
 <img src="https://www.spotebi.com/wp-content/uploads/2014/10/jumping-jacks-exercise-illustration.jpg" height="200"/>  
@@ -33,7 +33,7 @@
 - Return to standing and switch sides.
 - **Duration**: 1 minute (30 seconds each side)
 
-#### Main Workout (20-30 minutes)
+## Main Workout (20-30 minutes)
 
 **Pull-Ups** (if available)  
 <img src="https://cdn.shopify.com/s/files/1/0705/5432/1194/files/mikolo-pull-ups-blog-2.png?v=1693468017" height="200"/>  
@@ -74,7 +74,7 @@
 - Quickly kick your legs up and down.
 - **Sets/Duration**: 3 sets of 30 seconds
 
-#### Cool Down (5 minutes)
+## Cool Down (5 minutes)
 
 **Standing Quad Stretch**  
 <img src="https://fitnessprogramer.com/wp-content/uploads/2021/08/Standing-Quadriceps-Stretch.gif" height="200"/>  
