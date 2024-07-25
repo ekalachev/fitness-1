@@ -1,6 +1,6 @@
 # Thursday's Workout
 
-#### Warm-Up (5 minutes)
+## Warm-Up (5 minutes)
 
 **High Knees**  
 <img src="https://thumbs.dreamstime.com/b/high-knees-exercise-tabata-vector-illustration-high-knees-exercise-tabata-woman-doing-fitness-pointer-arrow-showing-right-127875845.jpg" height="200"/>  
@@ -28,7 +28,7 @@
 - Stand tall and jog in place, kicking your heels up towards your glutes.
 - **Duration**: 1 minute
 
-#### Main Workout (20-30 minutes)
+## Main Workout (20-30 minutes)
 
 **Push-Ups**  
 <img src="https://static.strengthlevel.com/images/exercises/push-ups/push-ups-800.jpg" height="200"/>  
@@ -70,7 +70,7 @@
 - Jump up explosively at the top of the squat.
 - **Sets/Reps**: 3 sets of 15 reps
 
-#### Cool Down (5 minutes)
+## Cool Down (5 minutes)
 
 **Standing Hamstring Stretch**  
 _No Image_  
